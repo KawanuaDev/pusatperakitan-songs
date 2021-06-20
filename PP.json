@@ -41,24 +41,18 @@
     S'bab Kau Layak T'rima Pujian"},{Tag:1,ID:2,Style:{Body:{FontName:"AvenirNext LT Pro Bold",FontSize:100,VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Image:"gregorio-nuti-IbrmGmXHWGE-unsplash.jpg",Luminosity:-50}},
     Text:"S'bab Kau Layak Kuagungkan Yesus
     Raja Di Atas Segala Raja"}],VideoDuration:0,
-    Text:"S'bab Kau Layak"},{Guid:"sxyd9YQmJ0Cv8dcalTtaIA",Verses:[{Style:{Body:{FontName:"AvenirNext LT Pro Bold",FontSize:150,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Image:"hannah-busing-FF049vNP1eg-unsplash.jpg",Luminosity:-50}},
-    Text:"Haleluyah 12x"}],VideoDuration:0,Style:{Body:{VerticalAlignment:1}},
-    Text:"Haleluyah 12x"},{Key:"Fis",Guid:"AUGXE7rwO0O8FRRrRynerg",Verses:[{Tag:1,ID:3,Style:{Body:{FontName:"AvenirNext LT Pro Bold",FontSize:100,VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Image:"john-price-RAZQiZOX3mU-unsplash.jpg",Luminosity:-25}},
+    Text:"S'bab Kau Layak"},{Guid:"sxyd9YQmJ0Cv8dcalTtaIA",Verses:[{
+    Text:"Haleluyah 12x"}],VideoDuration:0,Style:{Body:{VerticalAlignment:1},Background:{Video:"Blue Dust Cross _ Worship Background Loops Full HD.mp4"}},
+    Text:"Haleluyah 12x"},{Key:"Fis",Guid:"AUGXE7rwO0O8FRRrRynerg",Verses:[{Tag:1,
     Text:"<b><i><s615>Reff.:
-    </s></i></b>Hidupku menggenapi Firman-Mu
-    Tanda mujizat sertai tiap langkahku"},{Tag:1,ID:4,Style:{Body:{FontName:"AvenirNext LT Pro Bold",FontSize:100,VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Image:"john-price-RAZQiZOX3mU-unsplash.jpg",Luminosity:-25}},
-    Text:"Kau bersamaku di dalamku
-    Jadi bukti kebesaran-Mu"},{Style:{Body:{FontName:"AvenirNext LT Pro Bold",FontSize:100,VerticalAlignment:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Video:"Animated Curtain with galaxy.mp4",Luminosity:-25}},
-    Text:"TUHAN Kau sempurna
-    Dalam rencana-Mu dan karya-Mu"},{ID:2,Style:{Body:{FontName:"AvenirNext LT Pro Bold",FontSize:100,VerticalAlignment:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Video:"Animated Curtain with galaxy.mp4",Luminosity:-25}},
-    Text:"Kuserahkan hidupku
-    Murnikan dengan roh-Mu"},{Tag:1,Style:{Body:{FontName:"AvenirNext LT Pro Bold",FontSize:100,VerticalAlignment:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Video:"Animated Curtain with galaxy.mp4",Luminosity:-25}},
-    Text:"<b><i><s615>Reff.:
-    </s></i></b>Hidupku menggenapi Firman-Mu
-    Tanda mujizat 
-    sertai tiap langkahku"},{Tag:1,ID:2,Style:{Body:{FontName:"AvenirNext LT Pro Bold",FontSize:100,VerticalAlignment:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Video:"Animated Curtain with galaxy.mp4",Luminosity:-25}},
-    Text:"Kau bersamaku di dalamku
-    Jadi bukti kebesaran-Mu"}],VideoDuration:0,Style:{Background:{Video:"Animated Curtain with galaxy.mp4"}},
+    </s></i></b>Hidupku menggenapi Firman-Mu"},{Tag:1,ID:2,
+    Text:"Tanda mujizat sertai tiap langkahku"},{Tag:1,ID:3,
+    Text:"Kau bersamaku di dalamku"},{Tag:1,ID:4,
+    Text:"Jadi bukti kebesaran-Mu"},{
+    Text:"Tuhan, Kau sempurna"},{ID:2,
+    Text:"Dalam rencana-Mu dan karya-Mu"},{ID:3,
+    Text:"Kuserahkan hidupku"},{ID:4,
+    Text:"Murnikan dengan roh-Mu"}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Video:"4K Golden Waves over Colorful Sky 2160p Motion Background.mp4"}},
     Text:"Bukti Kebesaran Mu"},{Guid:"7eUN1f6vG0+AOwjisY1jgg",Verses:[{Style:{Body:{FontName:"AvenirNext LT Pro Bold",FontSize:100,Wrap:1},Background:{Image:"andrew-arrol-FPXz-dFNvxc-unsplash.jpg"}},
     Text:"Ku masuk ruang maha kudus
     Dengan darah Anak Domba"},{ID:2,Style:{Body:{FontName:"AvenirNext LT Pro Bold",FontSize:100,Wrap:1},Background:{Image:"andrew-arrol-FPXz-dFNvxc-unsplash.jpg"}},
@@ -404,90 +398,83 @@
     Karena setiaMu kepadaku"},{ID:4,
     Text:"Aku selalu bernyanyi
     Tentang perbuatan tanganMu yang ajaib"}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Video:"Green Palm Leaves.wmv"}},
-    Text:"Aku Hendak Bersyukur"},{Guid:"7APTmK1fwkyyz0TysrKs8g",Verses:[{
-    Text:"Dia sungguh indah, Dia Yesus
-    Dia ajaib, Dia Mulia, Dia Agung"},{ID:2,
-    Text:"Dia cinta daku, dan ampuniku
-    Bahkan rela b`rikan nyawaNya"},{ID:3,
-    Text:"`Tuk s`lamatkanku"},{Tag:1,
+    Text:"Aku Hendak Bersyukur"},{Author:"Nico Maryadi",Guid:"7APTmK1fwkyyz0TysrKs8g",Verses:[{
+    Text:"Dia sungguh indah, Dia Yesus"},{ID:2,
+    Text:"Dia ajaib, Dia mulia, Dia agung"},{ID:3,
+    Text:"Dia cinta daku, dan ampuniku"},{ID:4,
+    Text:"Bahkan rela b'rikan nyawa-Nya"},{ID:5,
+    Text:"'tuk s'lamatkanku"},{Tag:1,
     Text:"<b><i><s615>Reff:
-    </s></i></b>Sambutlah Yesus, tinggikan Yesus
-    B`ri dia hormat, pujian dan kuasa
-    Yesus Raja"},{Tag:1,ID:2,
-    Text:"Bagi yang mulia, ku angkat tanganku
-    Kau ku puja, ku cinta, ku sembah
-    Halleluya."}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}}},
-    Text:"Dia sungguh indah, Dia Yesus"},{Guid:"3OPRlqgk00CXvqZkueLKgA",Verses:[{
-    Text:"Saudara dengarlah sangkakala
-    Membawa pembebasan bagi Semua orang
-    Tidakkah engkau tahu inilah Tahun Yobel
-    Angkat tanganmu
-    Bebaskan tawanan"},{Tag:1,ID:2,
-    Text:"Ini tahun pembebasan 2x
-    Semua tawanan dilepaskan
-    Yang lumpuh dan yang buta
-    Lompat dan bersoraklah
-    S'bab ini tahun pembebasan"}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}}},
+    </s></i></b>Sambutlah Yesus, tinggikan Yesus"},{Tag:1,ID:2,
+    Text:"B'ri dia hormat, pujian dan kuasa
+    Yesus Raja"},{Tag:1,ID:3,
+    Text:"Bagi yang mulia, ku angkat tanganku"},{Tag:1,ID:4,
+    Text:"Kau ku puja, ku cinta, ku sembah
+    Halleluya."}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Video:"Free Motion Background - Golden Light.mp4"}},
+    Text:"Dia sungguh indah, Dia Yesus"},{Guid:"3OPRlqgk00CXvqZkueLKgA",Verses:[{Tag:1,
+    Text:"<b><i><s615>Reff:
+    </s></i></b>Ini tahun pembebasan
+    Ini tahun pembebasan"},{Tag:1,ID:2,
+    Text:"Semua tawanan dilepaskan
+    Yang lumpuh dan yang buta"},{Tag:1,ID:3,
+    Text:"Lompat dan bersoraklah
+    S'bab ini tahun pembebasan"},{
+    Text:"Saudara dengarlah sangkakala"},{ID:2,
+    Text:"Membawa pembebasan bagi semua orang"},{ID:3,
+    Text:"Tidakkah engkau tahu inilah Tahun Yobel"},{ID:4,
+    Text:"Angkat tanganmu
+    Bebaskan tawanan"}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Video:"Clouds and Lines Loop.mp4"}},
     Text:"Tahun Yobel"},{Guid:"Li9a3GYrX0mXXU4TmDX4bQ",Verses:[{
     Text:"Allah kita heran dan besar
-    Allah yang heranlah
-    Allah yang cinta kita s'mua
-    berkati dengan limpah
-    Allah yang heranlah
-    Allah kita heran"},{ID:2,
-    Text:"Allah kita heran dan besar
-    Allah yang heranlah
-    Allah yang cinta kita s'mua
-    berkati dengan limpah
-    Allah yang heranlah
-    Allah kita heran
-    Allah kita heran"}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}}},
+    Allah yang heranlah"},{ID:2,
+    Text:"Allah yang cinta kita s'mua
+    berkati dengan limpah"},{ID:3,
+    Text:"Allah yang heranlah"},{ID:4,
+    Text:"Allah kita heran"}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Video:"FREE NO COPYRIGHT FULL 1O80 HD ANIMATED SKY CLOUDS PURPLE MAJESTIC BACKGROUND MOTION GRAPHICS MEDIA.mp4"}},
     Text:"Allah Kita Heran dan Besar"},{Guid:"eJGmMbuwekmEDvkuH0L2aw",Verses:[{Tag:1,
-    Text:"Heran NamaNya
-    Heran KuasaNya"},{Tag:1,ID:2,
+    Text:"Heran Nama-Nya
+    Heran Nama-Nya"},{Tag:1,ID:2,
     Text:"Nama Yesus heranlah...
-    oh..  Haleluya"}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}}},
-    Text:"Heran Nama-Nya"},{Author:"Ir.Niko",Guid:"FcUgMMDzyEWytTIpQ0E15w",Verses:[{
-    Text:"Apapun yang terjadi di dalam hidupku
-    S’lalu ku berkata Tuhan Yesus baik"},{ID:2,
-    Text:"Dalam segala hal yang terjadi
-    Tetap ku berkata Tuhan Yesus baik"},{Tag:1,
-    Text:"ku sembah Kau, ku sembah Kau
-    tak dapat ku membalas kasihMu"},{Tag:1,ID:2,
-    Text:"ku sembah Kau, ku sembah Kau Bapa
-    ku rindu s’lalu menyenangkanMu"},{Tag:1,ID:3,
-    Text:"Yesus Yesus
-    Kau berarti bagiku
-    Yesus Yesus
-    Kau segalanya bagiku"}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}}},
-    Text:"Apapun Yang Terjadi"},{Author:"Sari Simorangkir",Guid:"E2Ti4J+askWTUe9Knm9cAg",Verses:[{
-    Text:"Ku yakin saat Kau berfirman
-    Ku menang saat Kau bertindak
-    Hidupku hanya ditentukan oleh perkataanMu"},{ID:2,
-    Text:"Ku aman karna Kau menjaga
-    Ku kuat karna Kau menopang
-    Hidupku hanya ditentukan oleh kuasaMu"},{Tag:1,
+    oh..  Haleluya"}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Video:"FREE NO COPYRIGHT FULL 1O80 HD ANIMATED SKY CLOUDS PURPLE MAJESTIC BACKGROUND MOTION GRAPHICS MEDIA.mp4"}},
+    Text:"Heran Nama-Nya"},{Guid:"FcUgMMDzyEWytTIpQ0E15w",Verses:[{Style:{Background:{Video:"Ink in Water Slo Mo.mp4"}},
+    Text:"Apapun yang terjadi dalam hidupku ini"},{ID:2,Style:{Background:{Video:"Ink in Water Slo Mo.mp4"}},
+    Text:"Tak pernah kuragukan, kasih-Mu Tuhan"},{ID:3,
+    Text:"Lewat gunung yang tinggi, dalam lembah yang curam"},{ID:4,
+    Text:"Tak pernah kuragukan, janji-Mu Tuhan"},{Tag:1,
     Text:"<b><i><s615>Reff:
-    </s></i></b>Bagi Tuhan tak ada yang mustahil
-    Bagi Tuhan tak ada yang tak mungkin"},{Tag:1,ID:2,
-    Text:"MujizatNya disediakan bagiku
-    Ku diangkat dan dipulihkanNya"}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}}},
+    </s></i></b>Kau berfirman, dan sembuhkanku"},{Tag:1,ID:2,
+    Text:"Kau bersabda, dan s'lamatkanku"},{Tag:1,ID:3,
+    Text:"Tiada yang mustahil, bagi-Mu"},{Tag:1,ID:4,
+    Text:"Yesus ku percaya pada-Mu"}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Video:"Ink in Water Slo Mo.mp4"}},
+    Text:"Apapun Yang Terjadi"},{Author:"Sari Simorangkir",Guid:"E2Ti4J+askWTUe9Knm9cAg",Verses:[{Tag:1,
+    Text:"Reff:
+    Bagi Tuhan tak ada yang mustahil"},{Tag:1,ID:2,
+    Text:"Bagi Tuhan tak ada yang tak mungkin"},{Tag:1,ID:3,
+    Text:"Mujizat-Nya disediakan bagiku"},{Tag:1,ID:4,
+    Text:"Ku diangkat dan dipulihkan-Nya"},{
+    Text:"Ku yakin saat Kau berfirman
+    Ku menang saat Kau bertindak"},{ID:2,
+    Text:"Hidupku hanya ditentukan oleh perkataan-Mu"},{ID:3,
+    Text:"Ku aman karna Kau menjaga
+    Ku kuat karna Kau menopang"},{ID:4,
+    Text:"Hidupku hanya ditentukan oleh kuasa-Mu"}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Video:"No Copyright Video, Copyright Free,  Motion Graphics, Background, Animation, Green Screen, YouTube (3).mp4"}},
     Text:"Bagi Tuhan Tak Ada Yang Mustahil"},{Guid:"YXMux4TmO0efIq4ql7+/qQ",Verses:[{
     Text:"Bapa Kau setia
-    Bapa Kau mulia
-    Tenanglah jiwaku
-    Aman bersamaMu"},{ID:2,
+    Bapa Kau mulia"},{ID:2,
+    Text:"Tenanglah jiwaku
+    Aman bersama-Mu"},{ID:3,
     Text:"Lebih dari harta
-    Kaulah segalaNya
-    Tenanglah jiwaku
-    Dalam hadiratMu"},{Tag:1,
-    Text:"Kau tunjukan kasih setiaMu
-    Kau menyediakan yang kuperlu
-    Kau Setia Kau Mulia
-    Dulu s'karang dan slamaNya"},{Tag:1,ID:2,
-    Text:"Kau tunjukan kasih setiaMu
-    Kau menyediakan yang kuperlu
-    Kau setia kau mulia
-    Bapa Kau setia "}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}}},
+    Kaulah segalanya"},{ID:4,
+    Text:"Tenanglah jiwaku
+    Dalam hadirat-Mu"},{Tag:1,
+    Text:"<b><i><s615>Reff:
+    </s></i></b>Kau tunjukan kasih setia-Mu
+    Kau menyediakan yang ku perlu"},{Tag:1,ID:2,
+    Text:"Kau setia, Kau mulia
+    Dulu s'karang dan s'lamanya"},{Tag:1,ID:3,
+    Text:"Kau tunjukan kasih setia-Mu
+    Kau menyediakan yang ku perlu"},{Tag:1,ID:4,
+    Text:"Kau setia, Kau mulia
+    Bapa, Kau setia "}],VideoDuration:0,Style:{Body:{VerticalAlignment:1,Wrap:1,FontStyle:{Fill:{Type:0,Color:"FFFFFFFF"},Stroke:{Type:0,Color:"FF000000"},StrokeThickness:41,ShadowColor:"FF8C8C8C",ShadowRadius:40,ShadowDirection:269,ShadowDepth:23}},Background:{Video:"Nebula Cloud Loop.mp4"}},
     Text:"Bapa Kau Setia"}],Guid:"3Rri7J8OEUa3uSpoNoDrLw",Language:"id",Style:{Background:{Video:"Altitude Loop.mp4"}},
     Text:"Pusat Perakitan"}
