@@ -2,7 +2,7 @@
 
 ## Cara Penggunaan
 
-Salin ke folder berikut pada PC.
+Salin file `PP.json` kedalam folder berikut pada PC.
 
 ```txt
 C:\Users\Public\Documents\VideoPsalm\SongBooks
